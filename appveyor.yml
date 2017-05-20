@@ -1,4 +1,6 @@
-version: '{build}-{branch}'
+version: 1.0.{build}
+build:
+
 clone_depth: 100
 
 configuration:
